@@ -32,5 +32,5 @@ The PCA was implemented using **NumPy** following these mathematical steps:
 3.  Run the cells sequentially. The dataset is loaded automatically from a remote URL.
 
 ## Author
-Henry Christian Parfait 
+[Henry Christian Parfait]
 African Leadership University
